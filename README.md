@@ -1,4 +1,4 @@
-# ** Dice Game**
+#  Dice Game
 ### *Spring 2023 Oregon State University Hackathon*
  ___
 ### Languages and Frameworks: 
